@@ -1,7 +1,8 @@
 # The World Today — Thursday 26 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261126-blue)](https://make.fun/bounty/news-image-20261126)
-[![Leaderboard](https://img.shields.io/badge/leaderboard-make.fun-green)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/Vikkry88/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/Vikkry88/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One image summing up the world's news of Thursday 26 November 2026:
 **42 stories, 7 regions** — 3 illustrated leads, 12 picture cards, 27 one-line
@@ -32,3 +33,7 @@ screenshotted at 1024×1024 with headless Chromium into `entry.png`.
 
 - Competition: [news-image-20261126](https://make.fun/bounty/news-image-20261126)
 - License: MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=kt7mwy3x&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
